@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Krishna Dwivedi | Learn • Practice • Achieve</title>
+
+<link rel="stylesheet" href="style.css">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+<header>
+<div class="logo">
+<h2>Krishna Dwivedi</h2>
+</div>
+
+<nav>
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="study.html">Study</a></li>
+<li><a href="current-affairs.html">Current Affairs</a></li>
+<li><a href="mock-test.html">Mock Test</a></li>
+<li><a href="jobs.html">Jobs</a></li>
+<li><a href="contact.html">Contact</a></li>
+</ul>
+</nav>
+
+<button id="darkBtn">🌙</button>
+
+</header>
+
+<section class="hero">
+
+<h1>Welcome To Krishna Dwivedi</h1>
+
+<p>
+India's Professional Study Platform
+</p>
+
+<input type="text"
+placeholder="Search Notes, Jobs, Quiz...">
+
+<br><br>
+
+<a href="study.html" class="btn">
+Start Learning
+</a>
+
+</section>
+
+<section class="cards">
+
+<div class="card">
+<h2>📚 Study Material</h2>
+<p>Class Notes PDF</p>
+</div>
+
+<div class="card">
+<h2>📰 Current Affairs</h2>
+<p>Daily Updated Questions</p>
+</div>
+
+<div class="card">
+<h2>📝 SSC Mock Test</h2>
+<p>Timer + Negative Marking</p>
+</div>
+
+<div class="card">
+<h2>💼 Latest Jobs</h2>
+<p>Govt Jobs Updates</p>
+</div>
+
+</section>
+
+<footer>
+
+<p>
+
+© 2026 Krishna Dwivedi
+All Rights Reserved.
+
+</p>
+
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+</html>
